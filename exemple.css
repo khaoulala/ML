@@ -1,0 +1,46 @@
+
+  
+  
+  .left_eye,
+  .right_eye {
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 42px;
+    border-radius: 100%;
+  }
+  
+  .left_eye {
+    left: 50px;
+  }
+  
+  .right_eye {
+    right: 50px;
+  }
+
+  
+  .body {
+    width: 200px;
+    height: 184px;
+    top: 42px;
+    border-radius: 0 0 25px 25px;
+  
+  
+  .left_arm {
+    left: -58px;
+  }
+  
+  .right_arm {
+    right: -58px;
+  }
+  
+  .left_leg {
+    left: 40px;
+  }
+  
+  .right_leg {
+    right: 40px;
+  }
+  
+  
